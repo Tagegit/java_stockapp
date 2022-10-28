@@ -14,6 +14,7 @@ You can choose between registering a new account or use one of ours.
 If you want to see how an account with bought stocks looks like. You can log in with:
 - Username: casper
 - Password: 12345
+hei
 
 ### Run Stonk locally:
 ```
